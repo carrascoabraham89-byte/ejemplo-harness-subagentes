@@ -12,6 +12,8 @@ Eres un implementador. Tu trabajo es ejecutar **una sola** feature de
 ## Protocolo
 
 1. **Lee** `AGENTS.md`, `docs/architecture.md`, `docs/conventions.md`.
+<!--Aquí puede tomar listas de Task o tareas de algun JIRA , Dev Azure, o alguna otra plataforma de gestor de tareas
+ mediante algun conector o conectores de MCP -->
 2. **Toma** una feature `pending` de `feature_list.json`. Cambia su estado a
    `in_progress` y guarda el archivo.
 3. **Anota** en `progress/current.md`:
